@@ -1,3 +1,9 @@
 # No theme = no theme-injected repo-name heading. Our _layouts/default.html renders the page.
 title: ""
 theme: null
+
+# Explicit Markdown converter so ## and #### (etc.) become <h2>, <h4> in HTML
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
