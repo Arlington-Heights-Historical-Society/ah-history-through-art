@@ -16,7 +16,7 @@ These stories will be constrained to two themes. The first is the story of Harmo
 #### HANA theme
 HANA stands for the Historic Arlington Neighborhood Association. It is a not for profit focused on retaining historic homes in the HANA neighboorhood boundaries.
 
-**Artistic takes:**
+Artistic takes:
 The demolition approval of XXX N Dunton. (Would need to mask the actual address for privacy)
 Approval of ordinances to safeguard the spirit of the neighborhood 
 The balance between the need to modernize with the desire for the neighborhood to keep its charm and existing culture.
@@ -34,7 +34,7 @@ Links to historical images:
 * [construction of harmony park](https://www.idaillinois.org/digital/collection/narlingto04/id/3477/rec/3)
 * [the fire](https://github.com/Arlington-Heights-Historical-Society/ah-history-through-art/issues/1#issue-4041617391)
 
-**Artistic takes:**
+Artistic takes:
 * Maybe some paintings of Peter, Mary and others building or operating the American Tavern. Maybe a painting showing it as the center of the community.
 * Depictions of the fire and the impact it had on the community
 * interpretations of how the spirit lives on in Harmony park and summer concert series
