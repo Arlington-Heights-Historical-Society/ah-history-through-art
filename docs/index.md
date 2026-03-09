@@ -25,7 +25,7 @@ The relationship home owners have with their homes.
 
 #### Harmony park theme
 [Peter and Mary Busch](https://www.idaillinois.org/digital/collection/narlingto04/id/114/rec/18) in 1899. 
-The American house tavern was built by Peter and Mary Busch in the late 1800s and became a community staple. It changed owners a few times and in 1917 it was renamed to the Vail. It remained the vail until it burned down in 1988 (March 8?). Many people mourned the passing of a beloved gathering place. In 2005 Harmony Park was constructed on its lot. Today summer concert series take place in the park continuing the traditional of being a staple of the downtown area. [The location](https://maps.app.goo.gl/UPJFqR5rMPTBQQ7P8) downtown. 
+The American house tavern was built by Peter and Mary Busch in the late 1800s and became a community staple. It changed owners a few times and in 1917 it was renamed to the Vail. It remained the vail until it burned down in 1988 (March 8?). Many people mourned the passing of a beloved gathering place. In 2005 Harmony Park was constructed on its lot. Today summer concert series take place in the park continuing the traditional of being a staple of the downtown area. [The location](https://maps.app.goo.gl/DTaVPmeUzkxobbs3A) downtown. 
 
 Links to historical images:
 * [Here](https://www.idaillinois.org/digital/collection/narlingto04/id/3582/rec/21) is another image of the tavern maybe from a few years later 
