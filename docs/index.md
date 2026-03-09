@@ -46,4 +46,5 @@ Artistic takes:
 Tie in with the 250 year anniversary of the United States.
 
 ## Timeline
-**todo**
+* mid March: release themes to artists
+* Early May: First theme unveiling event (HANA theme ?)
