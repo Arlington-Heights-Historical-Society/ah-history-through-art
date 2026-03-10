@@ -6,3 +6,6 @@
 
 # ignore video files
 *.mp4
+
+local-docs/
+
