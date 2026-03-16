@@ -4,3 +4,5 @@
 [artist page](https://arlington-heights-historical-society.github.io/ah-history-through-art/)
 can be found at that link.
 
+The root webpage is the markdown file: [index.md](docs/index.md)
+

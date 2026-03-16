@@ -14,13 +14,7 @@ These stories will be constrained to two themes. The first is the story of Harmo
 ## Themes
 
 #### HANA theme
-HANA stands for the Historic Arlington Neighborhood Association. It is a not for profit focused on retaining historic homes in the HANA neighboorhood boundaries.
-
-Artistic takes:
-The demolition approval of XXX N Dunton. (Would need to mask the actual address for privacy)
-Approval of ordinances to safeguard the spirit of the neighborhood 
-The balance between the need to modernize with the desire for the neighborhood to keep its charm and existing culture.
-The relationship home owners have with their homes.
+HANA stands for the Historic Arlington Neighborhood Association. It is a not for profit focused on retaining historic homes in the HANA neighboorhood boundaries. Full artistic information can be [found here](hana-theme.md)
 
 
 #### Harmony park theme
