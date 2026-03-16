@@ -58,12 +58,6 @@ Our collective neighbors ask our Design Commission to use the authority given to
 
 #### End presentation
 
-
-## Considerations
-- The balance between the need to modernize with the desire for the neighborhood to keep its charm and existing culture.
-- The relationship home owners have with their homes.
-
-
 ## Aditional context on the HANA organization
 
 #### HANA mission statement
@@ -94,3 +88,7 @@ HANA's constitution was ratified at Arlington Heights Memorial Library.
 #### HANA neighboorhood geographic area
 
 The HANA neighborhood is the area bounded by E & W Walnut to the west, E &WArlington Heights"oad to the east, S Elm to the North, andN. Northwest Highway to t h eSouth.
+
+## Other artistic considerations
+- The balance between the need to modernize with the desire for the neighborhood to keep its charm and existing culture.
+- The relationship home owners have with their homes.
