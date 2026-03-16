@@ -60,7 +60,6 @@ Our collective neighbors ask our Design Commission to use the authority given to
 
 
 ## Considerations
-- The demolition approval of XXX N Dunton. ()
 - The balance between the need to modernize with the desire for the neighborhood to keep its charm and existing culture.
 - The relationship home owners have with their homes.
 
