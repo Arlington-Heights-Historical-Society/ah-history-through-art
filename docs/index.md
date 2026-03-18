@@ -37,7 +37,7 @@ Artistic takes:
 
 #### Lincoln flag Project theme
 **todo.**
-Tie in with the 250 year anniversary of the United States.
+This theme will be a separate event. We will try to tie it in with the 250 year anniversary of the United States.
 
 ## Timeline
 * mid March: release themes to artists
