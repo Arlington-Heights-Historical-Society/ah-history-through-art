@@ -111,11 +111,3 @@ store](https://www.idaillinois.org/digital/collection/narlingto04/id/2274/rec/13
 5 men dressed in traditional early 1800s attire standing on the top step posing for a picture in front of the Wheeling House entrance. There are also 5 women also in early 1800s attire standing on the ground near the far right of the image. Then all of a sudden an amazon woman in full battle gear flies into the scene from above and does a super hero landing in front of the men. She walks up to the men shakes their hand then gestures for the woman to come up and join the men. Each woman goes to a man and they all pose for the picture together. Happy, the amazon warrior flies away.
 ```
 
-## Marketing
-Use historical society, Art Guild and Hana channels as main ones. 
-
-* **Exclusivity/Scarcity**: Offer a limited RSVP list or early-access previews for those who engage first. This creates urgency and a sense of exclusivity.
-
-* **Micro-Influencers**: Engage local community figures with credibility. Have them preview the event or share personal endorsements, lending trust and reach.
-
-* **Post-Event Social Proof**: Capture testimonials and visuals after the event. Use these as marketing assets to compound trust and interest in future promotions.

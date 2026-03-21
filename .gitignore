@@ -1,4 +1,8 @@
 
+# ignore private communication files
+*log-private*
+# *coms-log-private.md
+
 # ignore images
 *.jpg
 *.png
