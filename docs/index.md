@@ -27,4 +27,4 @@ This theme will be a separate event. We will try to tie it in with the 250 year 
 
 ## Timeline
 * mid March: release themes to artists
-* Early June: First theme unveiling event (HANA theme ?)
+* Early June: HANA and Harmony Park theme unveiling event
