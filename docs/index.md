@@ -16,8 +16,8 @@ Participating organizations:
 
 ## Background context
 
-In order to engage with our community and connect with the stories from our history, we are organizing an event that brings important narratives to life through artistic expression by local artists. The event is a joint effort between the Art Guild and the Historical Society. The event will culminate in an open art competition where the creative works will be judged by members of the Art Guild community in a fun and supportive way.
-the stories will be constrained to three themes over two events. The first event will encompass two themes. The story of Harmony Park and the story of the demolision debate for a historic home that is part of the HANA neighboorhood. 
+In order to engage with our community and connect with the stories from our history, we are organizing an event that brings important narratives to life through artistic expression by local artists. It is a joint effort between the Art Guild and the Historical Society. The event will culminate in an open art competition where the creative works will be judged by members of the Art Guild community in a fun and supportive way.
+The stories will be constrained to three themes over two events. The first event will encompass two themes. The story of Harmony Park and the story of the demolision debate for a historic home that is part of the HANA neighboorhood. 
 
 ## Themes
 
@@ -39,7 +39,8 @@ The Lincoln flag is a historic flag that was flown at half mass in the Arlington
 
 ## Timeline
 * HANA and Harmony Park themes
-    * mid March: release themes to artists
+    * March: release themes to artists
+    * April: Artist brainstorming sessions and painting begins
     * Early June: HANA and Harmony Park theme unveiling event
 * Lincoln flag theme (out of scope for the first event)
     * TBD
