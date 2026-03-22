@@ -46,3 +46,6 @@ The Lincoln flag is a historic flag that was flown at half mass in the Arlington
 
 ## Sign up form for artists
 Coming soon!
+
+## Sing up form for event attendees
+Coming soon!
