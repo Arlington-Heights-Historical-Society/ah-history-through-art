@@ -34,7 +34,7 @@ This theme is about the building of a community staple, its accidental destructi
 **todo.**
 This theme will be a separate event. 
 
-The Lincoln flag is a historic flag that was flown at half mass in the Arlington Heights town square on the day President Abraham Lincoln was shot. The flag has gone through a preservation effor and will be released as a public exhibit at the Arlington Heights Historical Museum. Fitting this will happen near the 250th anniversary of the founding of the USA.
+The Lincoln flag is a historic flag that was flown at half-mast in the Arlington Heights town square on the day President Abraham Lincoln was shot. The flag has undergone a preservation effort and will be unveiled as a public exhibit at the Arlington Heights Historical Museum. We will look to tie this to the 250th anniversary of the founding of the United States.
 
 
 ## Timeline
