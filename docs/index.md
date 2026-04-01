@@ -13,6 +13,9 @@ Organizing organizations:
 Participating organizations:
 * [Historic Arlington Neighborhood Association](https://www.arlington-hana.com/home) (HANA)
 
+## Event details
+The art exhibition will be 3pm - 6pm on Saturday 6, 2026 at the Arlington Heights Historical Museum [located at 110 W Fremont St](https://maps.app.goo.gl/Qx5YLM1a2H38hYzn7), Arlington Heights, IL 60004.
+
 
 ## Background context
 
