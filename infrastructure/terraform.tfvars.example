@@ -1,0 +1,9 @@
+# Copy to terraform.tfvars (gitignored) and adjust.
+
+# aws_region            = "us-east-2"
+# name_prefix           = "ah-history-art"
+# cloudfront_price_class = "PriceClass_All"
+
+# tags = {
+#   Project = "ah-history-through-art"
+# }
