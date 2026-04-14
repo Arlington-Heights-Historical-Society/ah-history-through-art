@@ -29,6 +29,9 @@
   /* Content width */
   --content-max: 42rem;
   --content-wide: 56rem;
+  /* Inline images: cap width so photos don’t dominate the column */
+  --content-image-max: 34rem;
+  --content-image-max-narrow: 22rem;
 }
 
 *,
@@ -152,6 +155,27 @@ body {
   height: 1px;
   background: var(--border);
   margin: var(--space-8) 0;
+}
+
+/* Images (Markdown ![alt](url) and raw <img>) */
+.content img {
+  display: block;
+  max-width: min(100%, var(--content-image-max));
+  width: auto;
+  height: auto;
+  margin-inline: auto;
+  margin-block: var(--space-6);
+  border-radius: var(--radius);
+}
+
+/* Optional: use <img class="img-narrow" ...> when you want a smaller inset */
+.content img.img-narrow {
+  max-width: min(100%, var(--content-image-max-narrow));
+}
+
+/* Optional: allow one image to use full content column width */
+.content img.img-wide {
+  max-width: 100%;
 }
 
 /* Links */

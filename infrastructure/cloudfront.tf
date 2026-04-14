@@ -1,13 +1,13 @@
 locals {
   s3_origin_id = "s3-images"
-}
 
-data "aws_cloudfront_cache_policy" "caching_optimized" {
-  name = "Managed-CachingOptimized"
-}
-
-data "aws_cloudfront_origin_request_policy" "cors_s3_origin" {
-  name = "Managed-CORS-S3Origin"
+  # AWS-managed policy IDs (stable; documented by AWS). Using these avoids Terraform
+  # calling cloudfront:ListCachePolicies / ListOriginRequestPolicies during plan, which
+  # many least-privilege IAM users do not have.
+  # Cache: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/using-managed-cache-policies.html
+  # Origin request: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/using-managed-origin-request-policies.html
+  cloudfront_managed_cache_policy_caching_optimized_id           = "658327ea-f89d-4fab-a63d-7e88639e58f6"
+  cloudfront_managed_origin_request_policy_cors_s3_origin_id     = "88a5eaf4-2fd4-4709-b370-b4c650ea3fcf"
 }
 
 resource "aws_cloudfront_origin_access_control" "images" {
@@ -37,8 +37,8 @@ resource "aws_cloudfront_distribution" "images" {
     compress               = true
     viewer_protocol_policy = "redirect-to-https"
 
-    cache_policy_id          = data.aws_cloudfront_cache_policy.caching_optimized.id
-    origin_request_policy_id = data.aws_cloudfront_origin_request_policy.cors_s3_origin.id
+    cache_policy_id          = local.cloudfront_managed_cache_policy_caching_optimized_id
+    origin_request_policy_id = local.cloudfront_managed_origin_request_policy_cors_s3_origin_id
   }
 
   restrictions {

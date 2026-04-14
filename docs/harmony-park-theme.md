@@ -1,5 +1,7 @@
 # Harmony Park Theme
 
+![Alt text](https://d2fyd5kvehusob.cloudfront.net/images/histart/harmony/harmony-park-today.webp "Harmony Park Today")
+
 The American house tavern was built by Peter and Mary Busch in the late 
 1800s and became a community staple. 
 [Peter and Mary 
