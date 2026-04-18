@@ -1,3 +1,5 @@
+# ignore local env files
+*local-env.sh
 
 # ignore private communication files
 *log-private*

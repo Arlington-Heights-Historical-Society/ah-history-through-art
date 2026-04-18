@@ -6,10 +6,7 @@ title: History through art project
 # HANA Theme
 Below are some artistic takes meant to serve as inspiration to artists.
 
-
-
 ## The demolition of historic home
-
 
 #### Petition to save the home
 The below text is a presentation by a HANA member to stop the demolishion of a historic home.
@@ -20,25 +17,28 @@ In the 1870s Arlington Heights, at that time known as Dunton, was small but bust
 Hanchett must have done well for himself – besides having 3 working studios in Illinois, he had this large ornate house built in brick, when everyone else was building wooden farmhouses. It included a closet lined with zinc and designed for a shower – which must have been a luxury since a complete water system didn’t come to town until 1903. 
 
 ![Alt text](https://d2fyd5kvehusob.cloudfront.net/images/histart/hana/house-in-1915.webp)
+
 Eventually Mr Hanchett sold the house and moved closer to one of his other studios and the house was sold to Carl and Sarah Behlendorf who purchased it in the late 1880s or early 1890s, leaving their farm in Mt Prospect to move into town. In 1923, 100 years ago in fact, their daughter Martha and her young family moved in with them. In fact, one of their daughters, Iona, was just 3 years old when she moved into her grandparents big house –she lived there until 2018 when she passed away at age 98.
 
-[SARAH AND CARL](https://github.com/Arlington-Heights-Historical-Society/ah-history-through-art/issues/2#issuecomment-4064343713)
+![Alt text](https://d2fyd5kvehusob.cloudfront.net/images/histart/hana/sara-and-carl.webp)
+
 BEHLENDORF FAMILY AND CULTURE 
 The Behlendorf family were known for their generosity. During the great depression they often provided hot meals to the so-called “hobos” who came to their back door.  And to help neighbors thru hard times they gave away parcels of their remaining farm land so others could provide for their families.  Over the years, they provided a safe and warm home to widowed or otherwise needy women in the separate apartment built into the house.  
 
-[GRANDMA’s HOUSE](https://github.com/Arlington-Heights-Historical-Society/ah-history-through-art/issues/2#issuecomment-4064343909)
+![Alt text](https://d2fyd5kvehusob.cloudfront.net/images/histart/hana/grandmas-house.webp)
+
 They weren’t people who were famous – they didn’t hold office, they weren’t influential business people or industrialists . But they were the kind of people who built this town with their generosity, love of family and service to others in the community.  716 North Dunton for many years was known as a place of great safety, warmth and generosity.  
 
-[IONA AND THE CAR](https://github.com/Arlington-Heights-Historical-Society/ah-history-through-art/issues/2#issuecomment-4064344120)
-BUILDINGS TELL THE STORY OF WHO WE ARE 
-Since the 1870s our country has been thru multiple wars including 2 World Wars, the Cold War, 2 global pandemics, the Great Depression – as well as the invention of electricity, the automobile, the telephone, the airplane, the space shuttle, the internet!  It has seen 28 Presidents, the turn of 2 centuries and 1 Millenium and Y2K.  
+![Alt text](https://d2fyd5kvehusob.cloudfront.net/images/histart/hana/house-front.webp)
 
-[HOUSE HEART AND SOUL](https://github.com/Arlington-Heights-Historical-Society/ah-history-through-art/issues/2#issuecomment-4064344488)
-* [front](https://github.com/Arlington-Heights-Historical-Society/ah-history-through-art/issues/2#issuecomment-4064342504)
-* [sides](https://github.com/Arlington-Heights-Historical-Society/ah-history-through-art/issues/2#issuecomment-4064342822)
-* [interior](https://github.com/Arlington-Heights-Historical-Society/ah-history-through-art/issues/2#issuecomment-4064343125)
+Buildings tell the story of who we are. Since the 1870s our country has been thru multiple wars including 2 World Wars, the Cold War, 2 global pandemics, the Great Depression – as well as the invention of electricity, the automobile, the telephone, the airplane, the space shuttle, the internet!  It has seen 28 Presidents, the turn of 2 centuries and 1 Millenium and Y2K.  
+
+![Alt text](https://d2fyd5kvehusob.cloudfront.net/images/histart/hana/house-side.webp)
 
 The home has survived it all – in some ways its like comfort food –  providing a sense of stability and strength to our community in times of turmoil and uncertainty. Perhaps it’s the brick CH Hanchett chose to build with that helps this solid structure ground us.
+
+![Alt text](https://d2fyd5kvehusob.cloudfront.net/images/histart/hana/house-interior.webp)
+
 To lose a piece of local culture and history of this magnitude would be like cutting the very heart and soul out of our community.  Some people may say “its just an old building”, but those people are wrong.  Buildings tell stories – they are testament to those who came before us, what was important to them, and what they’ve passed on to us.  They live and breathe and connect us to our past and all that made us what we are today.  The fact that we are all here tonight makes it clear that 716 North Dunton reminds us, and even teaches us, that we are a community made up of neighbors who value our past and work together for our future. 
 
 OUR NEIGHBORHOOD IS DESIRABLE – NO BEDROOM COMMUNITY 
@@ -53,6 +53,7 @@ Our collective neighbors ask our Design Commission to use the authority given to
 #### End presentation
 
 ## Aditional context on the HANA organization
+HANA stands for the Historic Arlington Neighborhood Association.
 
 #### HANA mission statement
 * to maintain residential integrity
