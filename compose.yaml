@@ -1,0 +1,16 @@
+version: '3'
+services:
+  app:
+    container_name: hta-site-dev
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: hta-site-img
+    ports:
+      - "8080:8080"
+    volumes:
+      # assume we want the context of the parent directory
+      - .:/app
+    environment:
+      # below not used but keeping as a reference
+      - APP_ENV=development

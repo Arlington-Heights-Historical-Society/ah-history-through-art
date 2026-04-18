@@ -2,6 +2,38 @@
 
 For the History Through Art Jekyll site (hosted on **GitHub Pages**).
 
+New shell setup
+```
+export AWS_PROFILE=cdn-developer
+```
+
+### Upload objects
+Single file
+```
+BUCKET=$(terraform output -raw s3_bucket_id)
+aws s3 cp ./your-image.webp "s3://$BUCKET/images/histart/harmony/your-image.webp"
+
+# example
+aws s3 cp images/harmonypark/harmony-park-today.webp "s3://$BUCKET/images/histart/harmony/harmony-park-today.webp"
+```
+Whole folder
+```
+aws s3 sync ./build/images s3://YOUR_BUCKET_NAME/images --delete
+```
+Get the URL
+```
+# get this from the terraform outputs
+CLOUDFRONT_DOMAIN=d2fyd5kvehusob.cloudfront.net
+```
+Add the files to the site:
+```
+https://CLOUDFRONT_DOMAIN/images/histart/harmony/my-photo-960.webp
+
+# example
+https://d2fyd5kvehusob.cloudfront.net/images/histart/harmony/harmony-park-today.webp
+```
+
+
 ## AWS setup
 One time setup commands:
 ```
@@ -10,10 +42,6 @@ aws sts get-caller-identity --profile cdn-developer
 
 # Enter the access key, secret, and default region (e.g. us-east-2 to match variables.tf)
 aws sts get-caller-identity --profile cdn-developer
-```
-New shell setup
-```
-export AWS_PROFILE=cdn-developer
 ```
 
 ## Image hosting
@@ -56,32 +84,6 @@ State is local by default; add a **remote backend** (e.g. S3 + DynamoDB) when yo
 #### tear down
 ```
 terraform destroy
-```
-
-### Upload objects
-Single file
-```
-BUCKET=$(terraform output -raw s3_bucket_id)
-aws s3 cp ./your-image.webp "s3://$BUCKET/imageshistart/harmony/your-image.webp"
-
-# example
-aws s3 cp images/harmonypark/harmony-park-today.webp "s3://$BUCKET/images/histart/harmony/harmony-park-today.webp"
-```
-Whole folder
-```
-aws s3 sync ./build/images s3://YOUR_BUCKET_NAME/images --delete
-```
-Get the URL
-```
-# get this from the terraform outputs
-CLOUDFRONT_DOMAIN=d2fyd5kvehusob.cloudfront.net
-```
-Add the files to the site:
-```
-https://CLOUDFRONT_DOMAIN/images/histart/harmony/my-photo-960.webp
-
-# example
-https://d2fyd5kvehusob.cloudfront.net/images/histart/harmony/harmony-park-today.webp
 ```
 
 
