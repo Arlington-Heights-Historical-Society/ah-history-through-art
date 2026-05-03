@@ -40,7 +40,7 @@ The home has survived it all – in some ways its like comfort food –  providi
 
 To lose a piece of local culture and history of this magnitude would be like cutting the very heart and soul out of our community.  Some people may say “its just an old building”, but those people are wrong.  Buildings tell stories – they are testament to those who came before us, what was important to them, and what they’ve passed on to us.  They live and breathe and connect us to our past and all that made us what we are today.  The fact that we are all here tonight makes it clear that 716 North Dunton reminds us, and even teaches us, that we are a community made up of neighbors who value our past and work together for our future. 
 
-There are many lovely bedroom communities in our area but we’ve all chosen to live in this beautiful community with its history and diverse neighborhoods, and our beautiful old homes with the character that can’t be built into new homes…  Visitors love our downtown, they love visiting our historical museum and strolling thru the historic neighborhoods that we all cherish.  We are in fact a Normal Rockwell painting. But this can’t happen in a community made up entirely of subdivisions and this is why Arlington Heights is such a desirable place to live, work, and shop.
+There are many lovely bedroom communities in our area but we’ve all chosen to live in this beautiful community with its history and diverse neighborhoods, and our beautiful old homes with the character that can’t be built into new homes…  Visitors love our downtown, they love visiting our historical museum and strolling thru the historic neighborhoods that we all cherish.  We are in fact a Norman Rockwell painting. But this can’t happen in a community made up entirely of subdivisions and this is why Arlington Heights is such a desirable place to live, work, and shop.
 
 CLOSING - 
 This home, with its firm standing in our collective cultural history, its documented architectural significance and importance to the stability of the neighborhood is an icon and a local landmark. 
@@ -78,7 +78,7 @@ HANA's constitution was ratified at Arlington Heights Memorial Library.
 
 #### HANA neighboorhood geographic area
 
-The HANA neighborhood is the area bounded by E & W Walnut to the west, E &WArlington Heights"oad to the east, S Elm to the North, andN. Northwest Highway to t h eSouth.
+The HANA neighborhood is the area bounded by E & W Walnut to the west, E & W Arlington Heights Road to the east, S Elm to the north, and N. Northwest Highway to the south.
 
 
 ## Other artistic considerations
