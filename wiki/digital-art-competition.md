@@ -12,25 +12,6 @@ Two themes/experiences/locations
 Maybe people in 
 [this thread](https://www.facebook.com/ArlHts/photos/a.10150108694254042/10158163974379042/)
 
-## MVP
-**Harmony Park** 
-[Peter and Mary Busch](https://www.idaillinois.org/digital/collection/narlingto04/id/114/rec/18). 1899. 
-The American house tavern was built by Peter and Mary Busch in the late 1800s and became a community staple. It changed owners a few times and in 1917 it was renamed to the Vail. It remained the vail until it burned down in 1988 (March 8?). Many people mourned the passing of a beloved gathering place. In 2005 Harmony Park was constructed on its lot. Today summer concert series take place in the park continuing the traditional of being a staple of the downtown area. [Location](https://maps.app.goo.gl/UPJFqR5rMPTBQQ7P8) downtown. 
-    * [Here](https://www.idaillinois.org/digital/collection/narlingto04/id/3582/rec/21) is another image of the tavern maybe from a few years later 
-    * [side view of the American house tavern](https://www.idaillinois.org/digital/collection/narlingto04/id/2655/rec/4)
-    * [the empty lot](https://www.idaillinois.org/digital/collection/narlingto04/id/3456/rec/2). 1999
-    * [construction of harmony park](https://www.idaillinois.org/digital/collection/narlingto04/id/3477/rec/3)
-    * [the fire](american-house-tavern-fire.png)
-
-#### Artistic takes:
-* Maybe some paintings of Peter, Mary and others building or operating the American Tavern. Maybe a painting showing it as the center of the community.
-* Depictions of the fire and the impact it had on the community
-* interpretations of how the spirit lives on in Harmony park and summer concert series
-* speculations on what it will look like in the future (50 years, 100?)
-
-**HANA**
-todo
-
 
 ## Examples:
 [root link](https://www.idaillinois.org/digital/collection/narlingto04/search/)
@@ -46,8 +27,8 @@ Checked subjects:
 * restaurants (25)
 * stores, retail (42)
 
+# Posts from the Archive
 
-Posts:
 * [Wheeling House](https://www.idaillinois.org/digital/collection/narlingto04/id/2395/rec/15) 1867. It offerred food and lodging. [Location coord](https://maps.app.goo.gl/8v4xotnv45tXNWGj7)
 
 * [dirt road](https://www.idaillinois.org/digital/collection/narlingto04/id/2653/rec/21) just past Dunton Ave. [Location coord](https://maps.app.goo.gl/mT32JuN38KfhVsRA6)
