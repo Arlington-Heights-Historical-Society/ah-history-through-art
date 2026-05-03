@@ -4,12 +4,11 @@ title: History through art project
 ---
 
 # History through art project
-This event is a free art exhibition where artists bring history to life.
 
 ![Alt text](https://d2fyd5kvehusob.cloudfront.net/images/histart/website-mainpage.webp)
 
 ## Event details
-The art exhibition will be 3pm - 6pm on Saturday June 6, 2026 at the Arlington Heights Historical Museum [located at 110 W Fremont St](https://maps.app.goo.gl/Qx5YLM1a2H38hYzn7), Arlington Heights, IL 60004.
+This event is a free art exhibition where local artists apply their creative talents to several historic themes to bring them to life. The exhibition will be 3pm - 6pm on Saturday June 6, 2026 at the Arlington Heights Historical Museum [located at 110 W Fremont St](https://maps.app.goo.gl/Qx5YLM1a2H38hYzn7), Arlington Heights, IL 60004.
 
 
 ## Background on the event
