@@ -73,7 +73,7 @@ The first HANA activity was a march in the Arlington Heights Independence Day pa
 **November 1980**
 Thefirst HANAgeneral meeting was held.
 
-**Fehruary 1981**
+**February 1981**
 HANA's constitution was ratified at Arlington Heights Memorial Library.
 
 #### HANA neighboorhood geographic area
