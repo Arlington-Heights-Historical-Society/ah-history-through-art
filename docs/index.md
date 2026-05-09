@@ -38,7 +38,9 @@ This theme is about the building of a community staple, its accidental destructi
     * June 6: HANA and Harmony Park theme unveiling exhibition 
 
 ## Sign up form for artists
-Coming soon!
+[Call for artists](https://forms.gle/Gr3K6CR9ATnjrstdA)
 
 ## Sing up form for event attendees
-Coming soon!
+[Event RSVP](https://www.facebook.com/events/s/history-through-art/1162274005988261/)
+
+Walkins are welcome but an RSVP guarantees your spot.
