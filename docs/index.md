@@ -3,7 +3,7 @@ layout: default
 title: History through art project
 ---
 
-# History through art project
+# History Through Art Event
 
 ![Alt text](https://d2fyd5kvehusob.cloudfront.net/images/histart/website-mainpage.webp)
 
