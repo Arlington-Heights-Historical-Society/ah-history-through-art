@@ -16,7 +16,7 @@ Held at the Arlington Heights Historical Museum [located at 110 W Fremont St](ht
 ## Background on the event
 
 In order to engage with our community and connect with the stories from our history, we are organizing an event that brings important narratives to life through artistic expression by local artists. It is a joint effort between the Art Guild and the Historical Society. The event will culminate in an open art competition where the creative works will be judged by members of the Art Guild community in a fun and supportive way.
-The stories will be constrained to two themes. The story of Harmony Park (how The American Tavern->The Vail->Harmony Park) and the story of the demolision debate for a historic home that is part of the HANA neighboorhood. 
+The stories will be constrained to two themes. The story of Harmony Park (how The American Tavern->The Vail->Harmony Park) and the story of the demolition debate for a historic home that is part of the HANA neighboorhood. 
 
 ## Themes
 
